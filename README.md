@@ -6,5 +6,8 @@ This Repo is just a fork of the original repo - https://github.com/tzutalin/labe
 
 The repo gives the dependencies and the files required for easy launch of the Labelling tool under conda environment
 
-Clone the repo and then create a conda environment with the `labelling-dependencies.txt`. Then we can launch the labelling tool
-with the following commands
+Clone the repo and then create a conda environment with the `labelling-dependencies.txt`. Then we can launch the labelling tool with the following commands
+`
+conda create --name Labelmg --file labelling-dependencies.txt
+`
+
