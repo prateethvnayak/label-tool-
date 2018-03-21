@@ -14,6 +14,7 @@ conda create --name Labelmg --file labelling-dependencies.txt
 The environment is created with the necessary dependencies. The tool is written in Python and uses the Qt-lib for GUI. 
 
 `source activate Labelmg`
+
 `python3 labelImg.py`
 
 The usage of the tool can be seen in this guide video - https://www.youtube.com/watch?v=p0nR2YsCY_U&feature=youtu.be
