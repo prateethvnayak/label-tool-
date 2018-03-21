@@ -1,0 +1,40 @@
+# packages in environment at /anaconda3/envs/Labelmg:
+#
+# Name                    Version                   Build  Channel
+ca-certificates           2017.08.26           ha1e5d58_0  
+certifi                   2018.1.18                py27_0  
+dbus                      1.12.2               h5243cc1_1  
+expat                     2.2.5                hb8e80ba_0  
+freetype                  2.8                  h12048fb_1  
+gettext                   0.19.8.1             h15daf44_3  
+glib                      2.53.6               h33f6a65_2  
+icu                       58.2                 h4b95b61_1  
+intel-openmp              2018.0.0             h8158457_8  
+jpeg                      9b                   he5867d9_2  
+libcxx                    4.0.1                h579ed51_0  
+libcxxabi                 4.0.1                hebd6815_0  
+libedit                   3.1                  hb4e282d_0  
+libffi                    3.2.1                h475c297_4  
+libgfortran               3.0.1                h93005f0_2  
+libiconv                  1.15                 hdd342a3_7  
+libpng                    1.6.34               he12f830_0  
+libxml2                   2.9.7                hab757c2_0  
+libxslt                   1.1.32               hb819dd2_0  
+lxml                      4.1.1            py27hef8c89e_1  
+mkl                       2018.0.1             hfbd8650_4  
+ncurses                   6.0                  hd04f020_2  
+numpy                     1.14.1           py27h8a80b8c_1  
+openssl                   1.0.2n               hdbc3d79_0  
+pcre                      8.41                 hfb6ab37_1  
+pip                       9.0.1            py27h1567d89_4  
+pyqt                      4.11.4                   py27_4  
+python                    2.7.14              hde5916a_29  
+qt                        4.8.7                         4  
+readline                  7.0                  hc1231fa_4  
+setuptools                38.5.1                   py27_0  
+sip                       4.18                     py27_0  
+sqlite                    3.22.0               h3efe00b_0  
+tk                        8.6.7                h35a86e2_3  
+wheel                     0.30.0           py27h677a027_1  
+xz                        5.2.3                h0278029_2  
+zlib                      1.2.11               hf3cbc9b_2  
