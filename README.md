@@ -8,9 +8,8 @@ The repo gives the dependencies and the files required for easy launch of the La
 
 Clone the repo and then create a conda environment with the `labelling-dependencies.txt`. Then we can launch the labelling tool with the following commands
 
-`
-conda create --name Labelmg --file labelling-dependencies.txt
-`
+`conda create --name Labelmg --file labelling-dependencies.txt`
+
 The environment is created with the necessary dependencies. The tool is written in Python and uses the Qt-lib for GUI. 
 
 `source activate Labelmg`
